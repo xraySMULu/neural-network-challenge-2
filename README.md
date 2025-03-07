@@ -1,22 +1,21 @@
-# neural-network-challenge-1
+# neural-network-challenge-2
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made-with-Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![made-with-VS-Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](https://code.visualstudio.com/)
 
-You work at a company that specializes in student loan refinancing. If the company can predict whether a borrower will repay their loan, it can provide a more accurate interest rate for the borrower. Your team has asked you to create a model to predict student loan repayment.
+You are tasked with creating a neural network that HR can use to predict whether employees are likely to leave the company. 
 
-## What neural-network-challenge-1 does
+## What neural-network-challenge-2 does
 
-With your knowledge of machine learning and neural networks, you decide to use the features in the provided dataset to create a model that will predict the likelihood that an applicant will repay their student loans. The CSV file contains information about these students, such as their credit ranking.
+HR believes that some employees may be better suited to other departments, so you are also asked to predict the department that best fits each employee. These two columns should be predicted using a branched neural network.
 
 ## Files
 
 | File | Function |                        
 | ---- | ------------- |
 | README.md | Project info |
-| student_loans_with_deep_learning.ipynb | Main project markup |
-| student_loans.keras | Keras File |
-| https://static.bc-edx.com/ai/ail-v-1-0/m18/lms/datasets/student-loans.csv | Data source |
+| attrition.ipynb | Main project markup |
+| ? | Data source |
 
 ## Documentation
 https://pandas.pydata.org/docs/reference/frame.html
