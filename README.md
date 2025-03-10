@@ -15,7 +15,7 @@ HR believes that some employees may be better suited to other departments, so yo
 | ---- | ------------- |
 | README.md | Project info |
 | attrition.ipynb | Main project markup |
-| ? | Data source |
+| https://static.bc-edx.com/ai/ail-v-1-0/m19/lms/datasets/attrition.csv| Data source |
 
 ## Documentation
 https://pandas.pydata.org/docs/reference/frame.html
